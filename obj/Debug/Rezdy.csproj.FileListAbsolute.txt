@@ -1,0 +1,13 @@
+F:\JKIS\Rezdy\bin\Debug\Rezdy.exe.config
+F:\JKIS\Rezdy\bin\Debug\Rezdy.exe
+F:\JKIS\Rezdy\bin\Debug\Rezdy.pdb
+F:\JKIS\Rezdy\obj\Debug\Rezdy.csprojAssemblyReference.cache
+F:\JKIS\Rezdy\obj\Debug\Rezdy.exe
+F:\JKIS\Rezdy\obj\Debug\Rezdy.pdb
+F:\JKIS\Rezdy\bin\Debug\Newtonsoft.Json.dll
+F:\JKIS\Rezdy\bin\Debug\Newtonsoft.Json.xml
+F:\JKIS\Rezdy\obj\Debug\Rezdy.csproj.CopyComplete
+F:\JKIS\Rezdy\bin\Debug\Dapper.dll
+F:\JKIS\Rezdy\bin\Debug\Dapper.xml
+F:\JKIS\Rezdy\obj\Debug\Rezdy.Properties.Resources.resources
+F:\JKIS\Rezdy\obj\Debug\Rezdy.csproj.GenerateResource.cache
